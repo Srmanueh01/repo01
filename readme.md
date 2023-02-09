@@ -12,9 +12,6 @@
   ![Ejemplo al realizar un push en git](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_3.PNG?raw=true)
 
 * Si ejecutamos el comando "git remote -v" la primera vez y no nos sale nada, es por que aun no lo tenememos repositorios.  
-    
-    ![Ejemplo del comando para agrerar el repositorio](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_4.PNG?raw=true)
-
 
 * Tenemos que crear un repositorio en gitHub, una vez creado, más abajo nos sale unas intrucciones con una URL de como tenemos que añadir nuestro repositorio, copiamos la URL y en el git escribimos "git remote add origin InsertarURL".
 
