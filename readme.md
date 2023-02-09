@@ -33,3 +33,5 @@
 
     ![Ejemplo del comando para agrerar el repositorio](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_6.PNG?raw=true)
     
+    
+Repositorio de prueba con todos los commits [Link](https://github.com/Srmanueh01/ejerciciogit).
